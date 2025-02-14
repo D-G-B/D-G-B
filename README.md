@@ -1,36 +1,43 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Daniel Brandt! 👋 
+Pursuing AI software engineering at Masterschool, focusing on Python fundamentals while exploring the fascinating world of AI development 🤖
 
-Welcome to my GitHub profile! I'm a passionate developer who loves creating, learning, and sharing cool projects.
+## Currently Learning
+- **Python Fundamentals:** Battling with data structures and befriending algorithms, one line of code at a time
+- **AI-Powered Applications:** Teaching computers to think (and hoping they don't outsmart me)
+- **Generative AI & LLMs:** Working with OpenAI, Hugging Face, Claude, and Gemini APIs
+- **Backend Development:** Building APIs and trying not to break the internet with Flask and FastAPI
+- **Database & Data Management:** Making PostgreSQL and MongoDB play nice together
+- **Software Engineering Best Practices:** Learning to write code that I'll be proud of!
 
-## Languages & Tools
+<!-- Tech Badges -->
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)]()
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)]()
+[![OpenAI](https://img.shields.io/badge/OpenAI-41299A?style=flat&logo=openai&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)]()
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)  
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org)  
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)  
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+## Career Aspirations
+On a quest to become an AI software engineer, because teaching machines to be smart is way cooler than doing spreadsheets. 🚀 Aiming to build AI systems that are both clever AND well-behaved!
 
-## About Me
+## Interests
+When I'm not wrestling with code, you'll find me:
+- **C & Unix:** Going old school with low-level programming (because sometimes you need to speak machine)
+- **Algorithmic Thinking & Data Structures:** Solving puzzles and pretending I'm a coding wizard 🧙‍♂️
+- **Software Architecture:** Building digital castles that hopefully won't collapse
+- **Gaming:** Because debugging is easier with a side of gaming breaks 🎮
+- **Fantasy & Sci-Fi:** Reading about magical worlds and future tech when not building it
+- **Poetry:** Sometimes I write poems, it is the only way to get the big thinks out my brain 🧠
 
-I'm a curious coder and tech enthusiast with a knack for problem-solving and innovation. My journey in tech is fueled by continuous learning, creative exploration, and a commitment to sharing knowledge with the community.
+<!-- Interest Badges -->
+[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)]()
+[![Unix](https://img.shields.io/badge/Unix-000000?style=flat&logo=linux&logoColor=white)]()
 
-- 🔭 I’m currently working on cool projects in [your field/tech stack].
-- 🌱 I’m always learning new things about software development and emerging technologies.
-- 💬 Ask me about Python, web development, or anything tech!
+## Get in Touch
+Let's chat about anything! I love connecting with others 🫂
 
-## Projects
+📫 How to reach me: [dgbisme@proton.me](mailto:dgbisme@proton.me)
 
-Take a look at some of my work:
-- [Project One](#) - A brief description of this project.
-- [Project Two](#) - A brief description of this project.
-- More projects are coming soon!
+*Currently focusing on Python fundamentals at Masterschool while working towards AI development goals.*
 
-## Connect With Me
-
-Let's connect:
-- [LinkedIn](#)
-- [Twitter](#)
-- [Email Me](mailto:your.email@example.com)
-
-Thanks for stopping by!
+*This README is a work in progress as I continue my studies at Masterschool... just like my debugging skills! 🐛*
