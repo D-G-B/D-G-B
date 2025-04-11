@@ -1,14 +1,14 @@
 # Daniel Brandt
 
 ## About Me
-Software engineering student at Masterschool focused on building practical development skills. Currently strengthening my Python fundamentals and learning modern web technologies to prepare for my first role in the tech industry.
+Software engineer specializing in Python development and API integration. Currently enhancing my skills at Masterschool with a focus on backend technologies and practical applications of AI tools.
 
-## Technical Focus
-- **Python Development**: Core language proficiency, data structures, and algorithmic problem-solving
-- **API Integration**: Working with OpenAI, Hugging Face, Claude, and Gemini APIs to create practical AI-powered applications
-- **Backend Development**: Building REST APIs with Flask and FastAPI
+## Technical Stack
+- **Python Development**: Strong foundation in core language, data structures, and algorithms
+- **API Integration**: Implementation experience with OpenAI, Hugging Face, Claude, and Gemini APIs
+- **Backend Development**: Building RESTful services with Flask and FastAPI
 - **Database Technologies**: PostgreSQL for relational data and MongoDB for document storage
-- **Software Engineering Practices**: Version control, testing, and collaborative development
+- **Software Engineering Practices**: Version control, testing, and collaborative development workflows
 
 <!-- Tech Stack -->
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
@@ -18,25 +18,25 @@ Software engineering student at Masterschool focused on building practical devel
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)]()
 
-## Career Goal
-Seeking my first position as a software engineer where I can contribute to meaningful projects while continuing to develop my skills. I'm particularly interested in roles that involve API integration, backend development, and practical applications of AI technologies.
+## Career Focus
+Software engineer looking for opportunities where I can leverage my backend development skills and AI integration experience. I excel in environments that value continuous learning and practical problem-solving.
 
 ## Additional Interests
-Outside of my core technical studies, I enjoy:
-- **C & Unix Programming**: Learning computing fundamentals for better understanding of systems
-- **Software Architecture**: Understanding how larger systems are designed and structured
-- **Game Development**: Exploring as a hobby and for algorithm practice
-- **Science Fiction & Fantasy**: Finding creative inspiration
-- **Poetry**: Maintaining balance through creative writing
+My technical interests extend to:
+- **C & Unix Programming**: Working with lower-level systems to deepen my understanding of computing fundamentals
+- **Software Architecture**: Designing scalable and maintainable systems
+- **Game Development**: Applying algorithm design in interactive environments
+- **Science Fiction & Fantasy**: Drawing creative inspiration for technical solutions
+- **Poetry**: Balancing technical work with creative expression
 
 <!-- Additional Interests -->
 [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)]()
 [![Unix](https://img.shields.io/badge/Unix-000000?style=flat&logo=linux&logoColor=white)]()
 
 ## Connect
-I'm currently open to entry-level software engineering opportunities and connections with industry professionals.
+I'm currently available for software engineering roles and interested in connecting with industry professionals.
 
 📫 Contact: [dgbisme@proton.me](mailto:dgbisme@proton.me)
 
 ---
-*Currently focused on completing my Masterschool program while building projects that demonstrate my technical skills to potential employers.*
+*Building my professional portfolio through Masterschool's program while seeking software engineering opportunities.*
